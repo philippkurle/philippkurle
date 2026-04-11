@@ -32,6 +32,7 @@ Self-directed, AI-assisted Arduino/AVR learning project simulating satellite sub
 Embedded systems, electronics, prototyping, system integration, test-focused engineering work, and robotics.
 
 ## Links
+- LinkedIn: https://www.linkedin.com/in/philipp-lucius-kurle/
 - GitHub: https://github.com/philippkurle
 - Instagram: https://www.instagram.com/philipp_kurle/
 
